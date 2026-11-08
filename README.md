@@ -165,15 +165,6 @@ Create a local environment file:
 
 cp .env.example .env
 
-Add your API key:
-
-GEMINI_API_KEY=YOUR_API_KEY
-GEMINI_MODEL=gemini-2.0-flash
-
-The API key is optional for the local fallback functionality.
-
-Never commit .env or expose API credentials.
-
 6. Run Version 1
 
 streamlit run version1/app.py
