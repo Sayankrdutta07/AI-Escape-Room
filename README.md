@@ -138,8 +138,7 @@ Requirements
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/AI-Escape-Room.git
-cd AI-Escape-Room
+git clone 
 
 2. Create a virtual environment
 
