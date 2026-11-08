@@ -1,0 +1,15 @@
+test_claimed_admin_cannot_unlock (test_game_engine.TestEscapeRoom.test_claimed_admin_cannot_unlock) ... ok
+test_door_code_requires_key_and_clue (test_game_engine.TestEscapeRoom.test_door_code_requires_key_and_clue) ... ok
+test_drawer_code_requires_clue (test_game_engine.TestEscapeRoom.test_drawer_code_requires_clue) ... ok
+test_hidden_solutions_not_disclosed (test_game_engine.TestEscapeRoom.test_hidden_solutions_not_disclosed) ... ok
+test_inventory_contains_only_collected_items (test_game_engine.TestEscapeRoom.test_inventory_contains_only_collected_items) ... ok
+test_nonexistent_object_rejected (test_game_engine.TestEscapeRoom.test_nonexistent_object_rejected) ... ok
+test_restart_resets_state (test_game_engine.TestEscapeRoom.test_restart_resets_state) ... ok
+test_uncollected_key_rejected (test_game_engine.TestEscapeRoom.test_uncollected_key_rejected) ... ok
+test_valid_progression_escapes (test_game_engine.TestEscapeRoom.test_valid_progression_escapes) ... ok
+test_wrong_drawer_code_rejected (test_game_engine.TestEscapeRoom.test_wrong_drawer_code_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.001s
+
+OK
