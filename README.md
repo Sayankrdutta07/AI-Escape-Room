@@ -138,7 +138,7 @@ Requirements
 
 1. Clone the repository
 
-git clone 
+git clone https://github.com/Sayankrdutta07/AI-Escape-Room/tree/main
 
 2. Create a virtual environment
 
